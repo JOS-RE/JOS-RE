@@ -1,6 +1,6 @@
 # Hello There
 
-## I am Joshith Reddy ...
+## I am Joshith Reddy Gopidi
 
 - Congratulation on finding me on GitHub.
 - Currently learning Python, C++, Html, CSS and JS
