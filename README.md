@@ -17,4 +17,4 @@
 [<img height=45 width=45 src="https://image.flaticon.com/icons/png/128/145/145807.png">](https://www.linkedin.com/in/joshith-reddy-gopidi-176745209/) 
 [<img height=45 width=45 src="https://image.flaticon.com/icons/png/128/145/145812.png">](https://twitter.com/JoshithReddy_g) 
 [<img height=45 width=45 src="https://image.flaticon.com/icons/png/128/145/145802.png">](https://www.facebook.com/joshith.gopidi/) 
-[<img height=45 width=45 src="https://image.flaticon.com/icons/png/128/1177/1177585.png?token=exp=1621206446~hmac=e1587ed988f2160e5af999517b66253a">](https://www.instagram.com/joshith_gopidi/)
+[<img height=45 width=45 src="https://img-premium.flaticon.com/png/512/1057/1057248.png?token=exp=1621209032~hmac=29bc571697a329e74b231920020462b9">](https://www.instagram.com/joshith_gopidi/)
