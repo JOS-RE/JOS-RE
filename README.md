@@ -10,7 +10,7 @@
 - ⚡ Fun fact: BLANK !
 
 ![Joshith's GitHub stats](https://github-readme-stats.vercel.app/api?username=JOS-RE&show_icons=true&theme=radical&count_private=true)
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JOS-RE&theme=prussian&currStreakNum=DDCE2A&currStreakLabel=EADE0C&sideNums=D93A7C&background=141321&sideLabels=FFFFFF)](https://git.io/streak-stats)
 ## Connect with me 📧:
 
 [<img height=45 width=45 src="https://img-premium.flaticon.com/png/512/552/552486.png?token=exp=1621206046~hmac=2d221eb9b503d0f938da3aa8d181d78a">](mailto:joshithreddy.g@gmail.com)
