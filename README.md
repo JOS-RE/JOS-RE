@@ -9,12 +9,9 @@
  - 💭 I am intrested in projects that involve problem solving
  - ⚡ Fun fact: BLANK !
 
-<br>
-
-
-![Joshith's GitHub stats](https://github-readme-stats.vercel.app/api?username=JOS-RE&show_icons=true&theme=radical&count_private=true)
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOS-RE&theme=radical" width="335px" data-canonical-><br>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JOS-RE&theme=prussian&currStreakNum=DDCE2A&currStreakLabel=EADE0C&sideNums=D93A7C&background=141321&sideLabels=FFFFFF)](https://git.io/streak-stats)
+![Joshith's GitHub stats](https://github-readme-stats.vercel.app/api?username=JOS-RE&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=F16707&bg_color=0D1117&icon_color=06CBFF&background=DD272700)
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOS-RE&theme=radical&hide_border=true" width="335px" data-canonical->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JOS-RE&hide_border=true&background=DD272700&border=943BDD00&fire=DD2727&sideNums=CB0044&currStreakLabel=00BAF6&currStreakNum=FFC600&sideLabels=00A4B1&dates=01AFDD)](https://git.io/streak-stats)
 <hr>
 
 ### You can connect with me from _here_ 📧:
