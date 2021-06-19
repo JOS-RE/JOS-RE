@@ -11,7 +11,7 @@
 
 ![Joshith's GitHub stats](https://github-readme-stats.vercel.app/api?username=JOS-RE&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=F16707&icon_color=0781CC&bg_color=0D111700)
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOS-RE&theme=radical&title_color=F16707&hide_border=true" width="335px" data-canonical->
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JOS-RE&hide_border=true&background=0D111700&border=943BDD00&fire=CB0044&sideNums=CB0044&currStreakLabel=ff96e6e&currStreakNum=FFFFFF&sideLabels=FFFFFF&dates=FA8C00)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JOS-RE&hide_border=true&background=0D111700&border=943BDD00&fire=CB0044&sideNums=CB0044&currStreakLabel=ff96e6e&currStreakNum=E7E7E7FF&sideLabels=FFFFFF&dates=FA8C00)](https://git.io/streak-stats)
 <hr>
 
 ### You can connect with me from _here_ 📧:
