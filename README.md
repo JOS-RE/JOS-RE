@@ -8,9 +8,11 @@
  - 🌐 I have a keen interest on developing Web applications 
  - 💭 I am intrested in projects that involve problem solving
  - ⚡ Fun fact: BLANK !
+ 
+<img align="right" src="./Octocat.png" height="450px" data-canonical->
 
 ![Joshith's GitHub stats](https://github-readme-stats.vercel.app/api?username=JOS-RE&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=FC6401&icon_color=7F1DA2&bg_color=0D111700)
-<img align="right" src="./Octocat.png" height="450px" data-canonical->
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JOS-RE&hide_border=true&background=0D111700&border=943BDD00&fire=CB0044&sideNums=FC6401&currStreakLabel=ff96e6e&currStreakNum=E7E7E7FF&sideLabels=EFEFE6&dates=4F5D78&stroke=7F1DA2)](https://git.io/streak-stats)<br>
 <img align="right" src="https://komarev.com/ghpvc/?username=your-github-JOS-RE&style=flat-square&color=232323">
 <hr>
