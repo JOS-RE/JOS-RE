@@ -4,7 +4,7 @@
 ### <p align="center"> <u>Congratulations, you found me on GitHub ! Know more about me . </u></p>
 
  - 👋 I am Currently working on improving my 
- - 👩‍💻 Python   |  C++   |  Java  |   HTML  |   CSS   |   Javascript
+  👩‍💻 Python   |  C++   |  Java  |   HTML  |   CSS   |   Javascript
  - 🌐 I have a keen interest on developing Web applications 
  - 💭 I am intrested in projects that involve problem solving
  - ⚡ Fun fact: BLANK !
