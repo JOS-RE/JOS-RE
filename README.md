@@ -1,4 +1,4 @@
-## <p align="center">Hello there,</p>
+![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 >> # <p align="center">I'm Joshith Reddy Gopidi 🚩</p>
 
 ### <p align="center"> <u>Congratulations, you found me on GitHub ! Know more about me . </u></p>
