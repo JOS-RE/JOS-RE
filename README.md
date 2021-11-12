@@ -4,7 +4,7 @@
 <img src="./assets/banner.png" />
 </a>
 
-> ## I'm Joshith Gopidi. 
+> ## I'm Joshith Reddy Gopidi. 
 > Sophomore CS Undergrad, Developer, Designer and an avid learner.
 
  - 👋 I am Currently learning Backend Web-dev and UI/UX designing
