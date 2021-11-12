@@ -1,7 +1,8 @@
 ## <p align="center">Hello there,</p>
->> # <p align="center">I'm Joshith Reddy Gopidi 🚩</p>
 
-### <p align="center"> <u>Congratulations, you found me on GitHub ! Know more about me . </u></p>
+<img src="./assets/banner.png" />
+
+### <p align="center"> Congratulations, you found me on GitHub ! Know more about me . </p>
 
  - 👋 I am Currently working on improving my :<br>
  - 🌐 I have a keen interest on developing Web applications 
