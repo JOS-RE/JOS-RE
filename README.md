@@ -1,13 +1,16 @@
 ## <p align="center">Hello there,</p>
 
+<a href="https://linktr.ee/Joshith_Gopidi">
 <img src="./assets/banner.png" />
+</a>
 
-### <p align="center"> Congratulations, you found me on GitHub ! Know more about me . </p>
+> ## Hello there, I'm Joshith Gopidi. Sophomore CS Undergrad, Developer, Designer and an avid learner.
 
- - 👋 I am Currently working on improving my :<br>
- - 🌐 I have a keen interest on developing Web applications 
- - 💭 I am intrested in projects that involve problem solving
- - ⚡ Fun fact: I can center a div !
+ - 👋 I am Currently learning Backend Web-dev and UI/UX designing
+ - 🌐 I am Exploring Open source projects while building on Web-Dev and Python. 
+ - 💭 I am always up for hackathons, Lets git it done !
+ - 💬 Ask me about Frontend Web-Dev and Figma Designing :) 
+ - ⚡ Fun fact : I love networking and meeting new people !
 
  
 <div>
@@ -40,3 +43,5 @@
 [<img height=40 width=40 align="centre" alt="Visit my Instagram Profile" src="https://image.flaticon.com/icons/png/512/1057/1057248.png">](https://www.instagram.com/joshith_gopidi/)
 <br>
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+
+### <p align="center"> Congratulations, you found me on GitHub ! </p>
