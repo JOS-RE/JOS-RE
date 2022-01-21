@@ -1,6 +1,6 @@
 ## <p align="center">Hello there,</p>
 
-<a href="https://linktr.ee/Joshith_Gopidi">
+<a href="">
 <img src="./assets/banner.png" />
 </a>
 
@@ -37,11 +37,11 @@
 
 
 ### You can connect with me from _here_ 📧:
-[<img height=40 width=40 align="centre" alt="Mail me" src="https://image.flaticon.com/icons/png/512/552/552486.png">](mailto:joshithreddy.g@gmail.com)
+[<img height=40 width=40 align="centre" alt="Mail me" src="https://image.flaticon.com/icons/png/512/552/552486.png">]()
 [<img height=40 width=40 align="centre" alt="Connect on LinkedIn" src="https://image.flaticon.com/icons/png/128/145/145807.png">](https://www.linkedin.com/in/joshith-reddy-gopidi/) 
 [<img height=40 width=40 align="centre" alt="Visit my Twitter Profile" src="https://image.flaticon.com/icons/png/128/145/145812.png">](https://twitter.com/JoshithReddy_g) 
 [<img height=40 width=40 align="centre" alt="Visit my Facebook Profile" src="https://image.flaticon.com/icons/png/128/145/145802.png">](https://www.facebook.com/joshith.gopidi/) 
-[<img height=40 width=40 align="centre" alt="Visit my Instagram Profile" src="https://image.flaticon.com/icons/png/512/1057/1057248.png">](https://www.instagram.com/joshith_gopidi/)
+[<img height=40 width=40 align="centre" alt="Visit my Instagram Profile" src="https://image.flaticon.com/icons/png/512/1057/1057248.png">]()
 <br>
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
