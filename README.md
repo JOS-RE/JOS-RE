@@ -41,7 +41,7 @@
 [<img height=40 width=40 align="centre" alt="Connect on LinkedIn" src="https://image.flaticon.com/icons/png/128/145/145807.png">](https://www.linkedin.com/in/joshith-reddy-gopidi/) 
 [<img height=40 width=40 align="centre" alt="Visit my Twitter Profile" src="https://image.flaticon.com/icons/png/128/145/145812.png">](https://twitter.com/JoshithReddy_g) 
 [<img height=40 width=40 align="centre" alt="Visit my Facebook Profile" src="https://image.flaticon.com/icons/png/128/145/145802.png">](https://www.facebook.com/joshith.gopidi/) 
-[<img height=40 width=40 align="centre" alt="Visit my Instagram Profile" src="https://image.flaticon.com/icons/png/512/1057/1057248.png">]()
+[<img height=40 width=40 align="centre" alt="Visit my Instagram Profile" src="https://image.flaticon.com/icons/png/512/1057/1057248.png">](gopidi.joshith@gmail.com)
 <br>
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
