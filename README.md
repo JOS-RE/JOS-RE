@@ -37,7 +37,7 @@
 
 
 ### You can connect with me from _here_ 📧:
-[<img height=40 width=40 align="centre" alt="Mail me" src="https://image.flaticon.com/icons/png/512/552/552486.png">]()
+[<img height=40 width=40 align="centre" alt="Mail me" src="https://cdn-icons-png.flaticon.com/512/552/552486.png">](gopidi.joshith@gmail.com)
 [<img height=40 width=40 align="centre" alt="Connect on LinkedIn" src="https://cdn-icons.flaticon.com/png/512/1377/premium/1377213.png?token=exp=1647644496~hmac=097da20b1ff7282671ea0cde43448fe7">](https://www.linkedin.com/in/joshith-reddy-gopidi/) 
 [<img height=40 width=40 align="centre" alt="Visit my Twitter Profile" src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670127.png?token=exp=1647644533~hmac=5317aee8de53e1ee62f6e91d8cf13322">](https://twitter.com/JoshithReddy_g) 
 [<img height=40 width=40 align="centre" alt="Visit my Facebook Profile" src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670124.png?token=exp=1647644575~hmac=fdc56b6208c217f92e130baaed05b09d">](https://www.facebook.com/joshith.gopidi/) 
