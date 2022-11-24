@@ -1,6 +1,6 @@
 ## <p align="center">Hello there,</p>
 
-<a href="https://github.com/JOS-RE?tab=repositories">
+<a href="https://joshith.vercel.app">
 <img src="./assets/banner.png" />
 </a>
 
