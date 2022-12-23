@@ -3,6 +3,9 @@
 <a href="https://joshith.vercel.app">
 <img src="./assets/banner.png" />
 </a>
+<div align="center">
+<img width="1080px" src="https://github-widgetbox.vercel.app/api/profile?username=JOS-RE&data=followers,repositories,stars,commits&theme=radical&title_color=000000">
+</div>
 
 > ## I'm Joshith Reddy Gopidi. 
 > Sophomore CS Undergrad, **Developer**, **Designer** and an avid learner.
@@ -22,9 +25,6 @@
 <img width="370px" src="http://github-readme-streak-stats.herokuapp.com?user=JOS-RE&hide_border=true&background=0D111700&border=943BDD00&fire=CB0044&sideNums=FC6401&currStreakLabel=ff96e6e&currStreakNum=969696&sideLabels=FC6401&dates=969696&stroke=7F1DA2" />
 </div>
 <!-- <span><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOS-RE&theme=radical&title_color=F16707&hide_border=true" width="290px" data-canonical-></span> -->
-<div align="center">
-<img width="800px" src="https://github-widgetbox.vercel.app/api/profile?username=JOS-RE&data=followers,repositories,stars,commits&theme=radical&title_color=000000">
-</div>
 
 ### 🍁 My Skill stack :
 
