@@ -28,13 +28,16 @@
 
 ### 🍁 My Skill stack :
 
+<div align="center>
+
 |               |           |
 |       ---     |    ---    |
 | `Web-Dev`     | <img src="https://skillicons.dev/icons?i=nodejs,react,tailwind,sass,bootstrap,html,css,js" />          |
 | `Languages`   | <img src="https://skillicons.dev/icons?i=py,java,cpp,mysql" />          |
 |`Frameworks and Cloud`|<img src="https://skillicons.dev/icons?i=aws,gcp,azure,nextjs,flask" />|
-| `Tools`       | <img src="https://skillicons.dev/icons?i=nodejs,react,tailwind,sass,bootstrap,html,css,js" />          |
+| `Tools`       | <img src="https://skillicons.dev/icons?i=figma,ai,vercel,heroku,git,github,vscode" />          |
 
+</div>
 
 <img align="right" src="https://komarev.com/ghpvc/?username=your-github-JOS-RE&style=flat-square&color=232323">
 <hr>
