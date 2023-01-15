@@ -30,7 +30,7 @@
 
 
 
-|     Web-Dev   | Languages |Frameworks| Tools          |
+|     Web-Dev   | Languages |Cloud + Frameworks| Tools          |
 |       ---     |    ---    |    ---     |    ---    |
 |       <img src="https://skillicons.dev/icons?i=nodejs,react,tailwind,sass,bootstrap,js" />     |    <img src="https://skillicons.dev/icons?i=py,java,cpp,mysql" />    |    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,nextjs,flask" />     |    <img src="https://skillicons.dev/icons?i=figma,ai,vercel,heroku,git,github,vscode" />    |
 
