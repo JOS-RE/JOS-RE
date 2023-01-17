@@ -3,12 +3,12 @@
 <a href="https://joshith.vercel.app">
 <img src="./assets/banner.png" />
 </a>
-<div align="center">
+<div align="center"><a href="https://joshith.vercel.app">
 <img width="1080px" src="https://github-widgetbox.vercel.app/api/profile?username=JOS-RE&data=followers,repositories,stars,commits&theme=radical&title_color=000000">
-</div>
+</a></div>
 
 > ## I'm Joshith Reddy Gopidi. 
-> Sophomore CS Undergrad, **Developer**, **Designer** and an avid learner.
+> CS Undergrad, **Developer**, **Designer** and an avid learner.
 
  - 👋 I am Currently learning Backend Web-dev and UI/UX designing
  - 🌐 I am Exploring Open source projects while building on Web-Dev and Python. 
@@ -26,6 +26,16 @@
 </div>
 <!-- <span><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOS-RE&theme=radical&title_color=F16707&hide_border=true" width="290px" data-canonical-></span> -->
 
+<div align="center">
+<div><h3>Lets connect 😃</h3></div>
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](joshithgopidi.work@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/joshith_gopidi/)
+[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/josre)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshith-reddy-gopidi/) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/joshith_gopidi)
+</div>
+
 ### 🍁 My Skill stack :
 
 
@@ -38,14 +48,6 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=your-github-JOS-RE&style=flat-square&color=232323">
 <hr>
 
-
-### You can connect with me from _here_ 📧:
-[<img height=40 width=40 align="centre" alt="Mail me" src="./assets/mail.png">](gopidi.joshith@gmail.com)
-[<img height=40 width=40 align="centre" alt="Connect on LinkedIn" src="./assets/linkedin.png">](https://www.linkedin.com/in/joshith-reddy-gopidi/) 
-[<img height=40 width=40 align="centre" alt="Visit my Twitter Profile" src="./assets/twitter.png">](https://twitter.com/JoshithReddy_g) 
-[<img height=40 width=40 align="centre" alt="Visit my Facebook Profile" src="./assets/facebook.png">](https://www.facebook.com/joshith.gopidi/) 
-[<img height=40 width=40 align="centre" alt="Visit my Instagram Profile" src="./assets/ig.png">](https://www.instagram.com/joshith_gopidi/)
-<br>
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
 ### <p align="center"> Congratulations, you found me on GitHub ! </p>
