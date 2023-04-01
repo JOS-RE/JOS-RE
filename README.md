@@ -18,7 +18,7 @@
 
  
 <div>
-<img src="https://github-readme-activity-graph-1.josr3.repl.co/graph?username=jos-re&theme=radical&bg_color=00000000&point=00000000&line=FC6401&hide_border=true&custom_title=Keep+Exploring,+Learning+and+Contributing+away...&color=969696&area=true&area_color=FC6401">
+<!-- <img src="https://github-readme-activity-graph-1.josr3.repl.co/graph?username=jos-re&theme=radical&bg_color=00000000&point=00000000&line=FC6401&hide_border=true&custom_title=Keep+Exploring,+Learning+and+Contributing+away...&color=969696&area=true&area_color=FC6401"> -->
 </div>
 <div align="center">
 <img width="370px" src="https://github-readme-stats.vercel.app/api?username=JOS-RE&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=FC6401&icon_color=FC6401&bg_color=0D111700&text_color=969696&custom_title=Joshith's+Github+Stats" alt="Joshith's Github stats" />
