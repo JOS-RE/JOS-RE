@@ -10,6 +10,8 @@
 > ## I'm Joshith Reddy Gopidi. 
 > CS Undergrad, **Developer**, **Designer** and an avid learner.
 
+<img width="45%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
  - 👋 I am Currently learning Backend Web-dev and UI/UX designing
  - 🌐 I am Exploring Open source projects while building on Web-Dev and Python. 
  - 💭 I am always up for hackathons, Lets git it done !
@@ -22,7 +24,7 @@
 </div>
 <div align="center">
 <img width="370px" src="https://github-readme-stats.vercel.app/api?username=JOS-RE&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=FC6401&icon_color=FC6401&bg_color=0D111700&text_color=969696&custom_title=Joshith's+Github+Stats" alt="Joshith's Github stats" />
-<img width="370px" src="http://github-readme-streak-stats.herokuapp.com?user=JOS-RE&hide_border=true&background=0D111700&border=943BDD00&fire=CB0044&sideNums=FC6401&currStreakLabel=ff96e6e&currStreakNum=969696&sideLabels=FC6401&dates=969696&stroke=7F1DA2" />
+<img width="370px" src="http://github-readme-streak-stats.herokuapp.com?user=JOS-RE&hide_border=true&background=0D111700&border=943BDD00&fire=CB0044&sideNums=FC6401&currStreakLabel=ff96e6e&currStreakNum=969696&sideLabels=FC6401&dates=969696&stroke=CB0044" />
 </div>
 <!-- <span><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOS-RE&theme=radical&title_color=F16707&hide_border=true" width="290px" data-canonical-></span> -->
 
